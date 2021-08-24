@@ -7,7 +7,7 @@ If you want to run the code, please have a look at the following prerequisites f
 
 1. Python 3
 2. smtplib and sys package (which you can install with pip command)
-3. Having 'Access for less secure apps' enabled in the mail from which you want to send the mails. (You can find the option under the 'security' tabs in your google acount settings)
+3. Having 'Access for less secure apps' enabled in the mail from which you want to send the mails. (You can find the option under the 'security' tabs in your google account settings)
 
 # Usage
 
